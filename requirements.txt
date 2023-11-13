@@ -1,7 +1,7 @@
 beautifulsoup4==4.12.2
 fastapi==0.101.1
 pydantic==2.4.2
-python-dotenv==1.0.0
+python-dotenv
 Requests
 requests_oauthlib
 uvicorn
